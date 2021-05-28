@@ -1,3 +1,7 @@
+*
+!*/
+!*.*
+*.dSYM
 *.exe
 .DS_Store
 .vscode
